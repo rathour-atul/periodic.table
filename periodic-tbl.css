@@ -1,8 +1,24 @@
+*
+{
+    background-color:rgb(221, 218, 129);
+}
+h1
+{
+  background-color: rgb(72, 108, 18);
+  width: 400px;
+  line-height: 40px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 15px black;
+  color: aliceblue;
+}
 td
 {
    width: 40px;
    height: 40px;
    text-align: center;
+   border-radius: 5px;
+   box-shadow: 0px 5px 1px black;
+   color: aliceblue;
  }
 
  .number
@@ -32,25 +48,28 @@ td
 .categary3
 {
     background-color: orange;
+    
 }
 .categary4
 {
     background-color: skyblue ;
+    color: brown;
 }
 
 .categary5
 {
-    background-color:green ;
+    background-color:rgb(137, 23, 131) ;
 }
 
 .categary6
 {
     background-color: yellow;
+    color: black;
 }
 
 .categary7
 {
-    background-color:red ;
+    background-color:rgba(205, 26, 89, 0.77) ;
 }
 
 .categary8
